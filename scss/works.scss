@@ -1,0 +1,10 @@
+@import "style";
+
+.work {
+    &__container {
+        max-width: 702px;
+    }
+    &__item {
+        padding: 45px 0;
+    }
+}

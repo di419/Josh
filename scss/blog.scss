@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Heebo:regular,500,700,900&display=swap");
+
+@import "null";
+
+@import "style";
+
+
+.blog {
+    &__container {
+        max-width: 681px;
+    }
+    &__items {
+        margin: 22px 0px;
+    }
+    &__item {
+        padding: 24px 70px 32px 0px;
+        border-bottom: 1px solid #e0e0e0;
+    }
+}
